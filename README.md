@@ -32,8 +32,8 @@ Follow these steps to set up the project on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sahil-makandar/Voice-Assistant-GPT-2.git
-cd Voice-Assistant-GPT-2
+git clone https://github.com/mrunal-rajgolkar/GPT-2-Voice-Assistant.git
+cd GPT-2-Voice-Assistant
 ```
 
 ## Create a Virtual Environment (Optional but Recommended)
